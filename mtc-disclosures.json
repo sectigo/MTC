@@ -1,0 +1,25 @@
+{
+  "$schema": "https://github.com/GoogleChrome/chromerootprogram/blob/main/content/cqrp/disclosures/mtc-disclosures.schema.json",
+  "operator_name": "Sectigo",
+  "last_updated": "2026-11-16T16:00:00Z",
+  "global_disclosures": {
+    "ca_repository_url": "https://github.com/sectigo/policy-documentation",
+    "legal_entity_and_ownership_url": "",
+    "operational_status_url": "https://sectigo.status.io/",
+    "facility_certification_url": "https://www.sectigo.com/uploads/files/CERT-002005-1.pdf"
+  },
+  "ca_cosigner_keys": [
+    {
+      "friendly_name": "Sectigo PublicQA MTC CA Log A",
+      "key_sha256": "ca34422881aff6404eb41588f6e06bcf5c2bf4e175012972e6fe224015f942e1",
+      "disclosures": {
+        "policy_documents_url": "",
+        "reserve_keys_url": "",
+        "key_generation_attestation_url": "",
+        "infrastructure_architecture_url": "",
+        "full_crl_urls": [],
+        "partitioned_crl_urls": []
+      }
+    }
+  ]
+}
